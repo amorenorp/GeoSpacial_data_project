@@ -1,6 +1,6 @@
 # GeoSpacial_data_project
 
-
+![geo](https://github.com/amorenorp/GeoSpacial_data_project/blob/main/img/geolocation-of-city-1024x683.jpg)
 
 
 ## Descripción : 
@@ -35,8 +35,8 @@ Con esto llegamos a una conclusión sobre la localización perfecta para nuestra
 
 ### *Referencias y bibliotecas:*
 ***
-https://docs.mongodb.com/manual/geospatial-queries/
-https://data.crunchbase.com/docs
-https://developer.foursquare.com/
-https://pypi.org/project/folium/0.1.5/
-https://github.com/CartoDB/cartoframes
+[https://docs.mongodb.com/manual/geospatial-queries/]
+[https://data.crunchbase.com/docs]
+[https://developer.foursquare.com/]
+[https://pypi.org/project/folium/0.1.5/]
+[https://github.com/CartoDB/cartoframes]
