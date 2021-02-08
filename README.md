@@ -30,13 +30,19 @@ Para ello `importamos : geopy.distance`.
 
 Con esto llegamos a una conclusión sobre la localización perfecta para nuestra empresa de gaming. 
 
+Encontrareís todo el proceso y el resultado final en el jupyter notebook `geo_spacial.ipynb`
+
 
 
 
 ### *Referencias y bibliotecas:*
 ***
-[https://docs.mongodb.com/manual/geospatial-queries/]
-[https://data.crunchbase.com/docs]
-[https://developer.foursquare.com/]
-[https://pypi.org/project/folium/0.1.5/]
-[https://github.com/CartoDB/cartoframes]
+- [https://docs.mongodb.com/manual/geospatial-queries/]
+
+- [https://data.crunchbase.com/docs]
+
+- [https://developer.foursquare.com/]
+
+- [https://pypi.org/project/folium/0.1.5/]
+
+- [https://github.com/CartoDB/cartoframes]
